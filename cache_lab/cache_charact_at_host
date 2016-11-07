@@ -1,0 +1,4 @@
+L1: 8-way, 32K - instruction
+	   32K - data  
+L2: 8-way, 256K
+L3: 12 - way, 3MB 

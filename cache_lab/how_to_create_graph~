@@ -1,0 +1,5 @@
+gnuplot
+set terminal png size 800,600 enhanced font "Helvetica,20"
+set output 'cache.png'
+set style line 1 lc rgb '#0060ad' lt 1 lw 2 pt 7 ps 1.5   # --- blue
+plot 'cache.dat' with linespoints ls 1
